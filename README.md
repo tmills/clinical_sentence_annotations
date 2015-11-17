@@ -9,6 +9,4 @@ This data is completely anonymous -- there is no PHI (Protected Health Informati
 
 For more information on obtaining the MIMIC II Corpus see here: http://physionet.org/mimic2/
 
-The software I used for training and evaluating on this data for the AMIA abstract is (as of AMIA 2015) in the sandbox of the Apache cTAKES project. It can be checked out with subversion at this repo:
-https://svn.chip.org/svn/repos/cNLP/tim/sent-detect
-
+Software for extracting MIMIC into the correct format and reproducing my experiments will be made public shortly.
