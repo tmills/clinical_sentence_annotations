@@ -9,4 +9,7 @@ This data is completely anonymous -- there is no PHI (Protected Health Informati
 
 For more information on obtaining the MIMIC II Corpus see here: http://physionet.org/mimic2/
 
-Software for extracting MIMIC into the correct format and reproducing my experiments will be made public shortly.
+The UIMA/cTAKES project used to read and evaluate this data can be found in the following repository:
+https://github.com/tmills/sentence-detector
+
+See that projects README file for instructions on reproducing experiments.
