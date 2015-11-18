@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>15:02:34 25-01-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>1@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>2,1013</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>2,48</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>51,150</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>151,192</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>193,221</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>224,268</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>269,326</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>327,389</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>392,493</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>494,560</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>561,612</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>613,695</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>696,757</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>760,781</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>784,830</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>831,860</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>863,921</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>922,959</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@patient4_Nursing_Other-17296-1@tim</id>
+		<span>962,1012</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

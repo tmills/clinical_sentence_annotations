@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>18:36:28 03-02-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>2@e@patient18_DISCHARGE_SUMMARY-0@tim</id>
+		<span>7,1061</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

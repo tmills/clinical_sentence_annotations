@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>17:45:02 04-02-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>1@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>7,147</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>147,260</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>260,344</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>344,603</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>603,687</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>687,1731</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>152,188</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>226,259</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>349,378</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>385,433</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>487,515</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>522,550</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>724,736</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>742,785</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>798,875</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>888,985</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>988,1062</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1069,1224</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1236,1330</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1333,1405</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1408,1463</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1476,1562</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1575,1591</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1603,1662</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@patient19_RADIOLOGY_REPORT-25788-0@tim</id>
+		<span>1675,1730</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

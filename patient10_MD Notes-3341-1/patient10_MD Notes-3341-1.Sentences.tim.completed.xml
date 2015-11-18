@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>15:07:26 04-02-2015</savetime>
+  <progress>in-progress</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>1@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1,1392</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1,22</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@patient10_MD Notes-3341-1@tim</id>
+		<span>23,81</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@patient10_MD Notes-3341-1@tim</id>
+		<span>84,270</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@patient10_MD Notes-3341-1@tim</id>
+		<span>273,325</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@patient10_MD Notes-3341-1@tim</id>
+		<span>328,378</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@patient10_MD Notes-3341-1@tim</id>
+		<span>383,524</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@patient10_MD Notes-3341-1@tim</id>
+		<span>527,554</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@patient10_MD Notes-3341-1@tim</id>
+		<span>555,572</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@patient10_MD Notes-3341-1@tim</id>
+		<span>573,589</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@patient10_MD Notes-3341-1@tim</id>
+		<span>590,609</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@patient10_MD Notes-3341-1@tim</id>
+		<span>611,645</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@patient10_MD Notes-3341-1@tim</id>
+		<span>648,672</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@patient10_MD Notes-3341-1@tim</id>
+		<span>675,689</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@patient10_MD Notes-3341-1@tim</id>
+		<span>692,800</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@patient10_MD Notes-3341-1@tim</id>
+		<span>803,821</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@patient10_MD Notes-3341-1@tim</id>
+		<span>823,874</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@patient10_MD Notes-3341-1@tim</id>
+		<span>877,926</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@patient10_MD Notes-3341-1@tim</id>
+		<span>929,934</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@patient10_MD Notes-3341-1@tim</id>
+		<span>936,999</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1000,1047</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1048,1102</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1103,1147</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1148,1267</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@patient10_MD Notes-3341-1@tim</id>
+		<span>1268,1392</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

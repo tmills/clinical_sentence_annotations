@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>13:15:20 11-01-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>2@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>1,516</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>1,22</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>25,60</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>62,147</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>150,169</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>171,195</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>197,207</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>209,229</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>231,239</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>241,250</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>252,278</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>280,288</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>290,327</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>329,374</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>376,429</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>431,441</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>443,476</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@patient2_Nursing_Other-25967-1@tim</id>
+		<span>478,515</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

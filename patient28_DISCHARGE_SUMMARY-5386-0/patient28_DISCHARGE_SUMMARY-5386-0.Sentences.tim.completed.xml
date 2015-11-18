@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>16:59:04 05-02-2015</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>1@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2,119</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>6095,7108</span>
+		<type>Header</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>121,6093</span>
+		<type>Segment</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>121,134</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>137,276</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>279,348</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>351,509</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>511,639</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>642,700</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>702,818</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>820,882</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>884,1133</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1136,1267</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1270,1298</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1301,1365</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1368,1393</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1394,1420</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1422,1445</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>19@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1447,1469</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>20@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1471,1497</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>21@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1499,1524</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>22@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1526,1550</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>23@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1552,1577</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>24@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1579,1608</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>25@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1610,1633</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>26@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1637,1699</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>27@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1701,1723</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>28@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1725,1770</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>29@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1773,1812</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>30@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1815,1851</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>31@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1854,1864</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>32@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1867,1982</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>33@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>1985,2032</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>34@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2035,2073</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>35@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2076,2112</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>36@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2114,2149</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>37@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2152,2191</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2194,2232</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>39@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2235,2265</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>40@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2268,2337</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>41@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2339,2391</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>42@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2394,2409</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>43@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2411,2463</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>44@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2465,2505</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>45@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2508,2569</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>46@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2572,2810</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>47@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2813,2901</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>48@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2903,2944</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>49@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>2946,3140</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>50@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3142,3211</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>51@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3213,3297</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>52@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3299,3421</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>53@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3424,3520</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>54@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3523,3581</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>55@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3583,3612</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3615,3642</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3644,3729</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>58@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3731,3781</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>59@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3784,3827</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3829,3862</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>61@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3864,3988</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>62@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>3991,4060</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>63@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4062,4128</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>64@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4130,4241</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>65@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4243,4369</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>66@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4372,4449</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>67@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4452,4571</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>68@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4573,4628</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>69@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4631,4797</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>70@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4800,4866</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>71@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4869,4905</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>72@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4908,4952</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>73@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4955,4988</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>74@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>4991,5011</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>75@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5014,5084</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>76@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5086,5156</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>77@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5159,5195</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>78@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5198,5247</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>79@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5250,5261</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>80@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5263,5322</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>81@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5324,5359</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>82@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5362,5439</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>83@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5442,5507</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>84@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5510,5738</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>85@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5741,5745</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>86@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5748,5768</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>87@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5771,5795</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>88@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5798,5822</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>89@e@patient28_DISCHARGE_SUMMARY-5386-0@tim</id>
+		<span>5825,6092</span>
+		<type>Sentence</type>
+		<parentsType>ItemSeparators</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>
